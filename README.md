@@ -1,6 +1,6 @@
-# Flappy Bird with Web3 Integration
+# Flappy Bird 
 
-A simple Flappy Bird game with the flavor of Web3.
+A simple Flappy Bird game.
 
 ![Gameplay Screenshot](images/flappy-bird.jpg)
 ---
@@ -10,7 +10,7 @@ A simple Flappy Bird game with the flavor of Web3.
 ---
 ## Description
 
-Flappy Bird is a classic 2D game where you control a bird and navigate it through a series of pipes. In this version, we've added Web3 integration using the ThirdWEBsdk, allowing you to log in to your MetaMask wallet and enjoy the game with a blockchain twist.
+Flappy Bird is a classic 2D game where you control a bird and navigate it through a series of pipes.
 
 ## Features
 
